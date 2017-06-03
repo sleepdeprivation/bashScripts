@@ -1,0 +1,2 @@
+#!/bin/bash
+tac -r ~/.bash_history | grep $1
